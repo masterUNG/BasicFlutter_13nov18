@@ -1,8 +1,7 @@
 # basic_flutter
 
-A new Flutter project.
+## โค้ดตัวอย่างการเรียนรู้การใช้ Row และ Column
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
+
